@@ -5,7 +5,7 @@ app = express()
 
 app.use("/",(req,res) => {
     res.json({
-        "message":"Welcome to Estore API CI/CD"
+        "message":"Welcome to Estore API CI/CD TEST"
     });
 });
 
